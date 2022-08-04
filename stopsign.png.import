@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tree.png-3eee5e286be6d144e9c78de0322d7839.stex"
+path="res://.import/stopsign.png-9277be1a5c8be40bb262ee8edb43811d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://roger-roger/tree.png"
-dest_files=[ "res://.import/tree.png-3eee5e286be6d144e9c78de0322d7839.stex" ]
+source_file="res://roger-roger/stopsign.png"
+dest_files=[ "res://.import/stopsign.png-9277be1a5c8be40bb262ee8edb43811d.stex" ]
 
 [params]
 
